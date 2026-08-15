@@ -19,7 +19,7 @@ La implementación de un cambio obligatorio de contraseña durante el primer acc
 ---
 
 ## 4. Requerimientos funcionales
-
+//
 ### RF-01
 El sistema deberá identificar cuando un usuario inicia sesión por primera vez.
 
