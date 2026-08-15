@@ -1,0 +1,34 @@
+ENTREGABLE 3. Acta de conformidad
+ACTA DE CONFORMIDAD DEL ALCANCE ADMINISTRATIVO
+Proyecto: CaféSoft
+Historia de Usuario: HU-001
+Sprint: Sprint 1
+Fecha: ______________________
+Objetivo
+El presente documento tiene como finalidad validar que el alcance funcional del módulo administrativo de CaféSoft cumple con las necesidades planteadas por el cliente respecto a la administración de productos, inventarios y usuarios.
+Alcance aprobado
+Se acuerda que el sistema contará con los siguientes módulos administrativos:
+  Gestión de Productos
+  Gestión de Inventario
+  Gestión de Usuarios
+  Gestión de Categorías
+  Gestión de Roles y Permisos
+  Gestión de Reportes
+Asimismo, se aprueba la implementación de las reglas de negocio necesarias para garantizar el correcto funcionamiento del sistema.
+Observaciones
+
+
+Conclusión
+Después de revisar la documentación correspondiente a la Historia de Usuario HU-001, el cliente manifiesta que el alcance administrativo cubre las necesidades actuales del proyecto CaféSoft y autoriza continuar con el desarrollo del sistema.
+Firmas
+Cliente
+Nombre:
+Firma:
+Fecha:
+
+Representante del equipo
+Nombre:
+Firma:
+Fecha:
+
+
